@@ -1,4 +1,4 @@
-texto = "Hola Mundo"
+texto = 'Hola Mundo'
 
 print(texto.upper())
 print(texto.lower())
